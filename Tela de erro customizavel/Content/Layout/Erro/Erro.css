@@ -1,0 +1,178 @@
+﻿html, body, h1, h2, h3, h4, h5, h6, ul, li, a, p, textarea, input, 
+form, nav, header, footer, section, article, figure, figcapton,
+select, fieldset, legend, aside
+{
+    margin: 0px;
+    padding: 0px;
+    resize: none;
+    outline: none;
+}
+
+h1:after, h2:after, h3:after, h4:after, h5:after, h6:after, 
+ul:after, p:after, textarea:after, form:after, nav:after, 
+header:after, footer:after, section:after, article:after, 
+figure:after, figcapton:after, fieldset:after, div:after,
+.clear:after
+{
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    height: 0;
+    overflow: hidden;
+}
+
+body
+{
+    background: #000 url(/content/layout/erro/fundo1.jpg) no-repeat center 0px;
+    background-size: cover;
+}
+
+img
+{
+    border: 0px none;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+ul
+{
+    list-style: none;
+}
+
+::selection
+{
+    background-color: #ffff00;
+    color: black;
+}
+
+::-moz-selection
+{
+    background-color: #ffff00;
+    color: black;
+}
+
+.erro
+{
+    display: table;
+    margin: 0px auto;
+    margin-top: 170px;
+    font-family: sans-serif;
+}
+
+    .erro h1
+    {
+        font-size: 40px;
+        font-weight: normal;
+        padding-bottom: 30px;
+        color: #ffff00;
+    }
+
+    .erro p
+    {
+        font-size: 18px;
+        color: white;
+        line-height: 25px;
+    }
+
+        .erro p strong
+        {
+            font-size: 27px;
+            color: #ffff00;
+        }
+
+    .erro ul
+    {
+        text-align: center;
+        padding-top: 25px;
+    }
+
+        .erro ul li
+        {
+            display: inline;
+            padding: 0px 20px 0px 20px;
+            font-size: 18px;
+            color: white;
+        }
+
+    .erro audio
+    {
+        display: none !important;
+    }
+
+@media only screen and (max-width: 1366px)
+{
+    .erro
+    {
+        margin-top: 100px;
+    }
+}
+
+@media only screen and (max-width: 1100px)
+{
+    .erro
+    {
+        text-align: center;
+    }
+    
+        .erro h1
+        {
+            font-size: 30px;
+            padding-bottom: 10px;
+        }
+
+        .erro p
+        {
+            font-size: 13px;
+            line-height: 18px;
+        }
+
+            .erro p strong
+            {
+                font-size: 18px;
+            }
+
+        .erro ul
+        {
+            padding-top: 10px;
+        }
+
+            .erro ul li
+            {
+                font-size: 13px;
+            }
+}
+
+@media only screen and (max-width: 800px)
+{
+    body
+    {
+        background: #050505 url(/content/layout/erro/fundo2.jpg) no-repeat center 0px;
+        background-size: cover;
+    }
+
+    .erro
+    {
+        margin: 0px auto !important;
+        padding: 50px 10px;
+    }
+
+        .erro h1
+        {
+            font-size: 20px;
+        }
+
+        .erro p
+        {
+            font-size: 12px;
+            line-height: 18px;
+        }
+
+        .erro ul li
+        {
+            padding: 0px 7px 0px 7px;
+        }
+}

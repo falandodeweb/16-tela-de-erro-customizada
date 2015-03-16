@@ -1,0 +1,19 @@
+E:\Copy\Weblite\Tela de erro customizavel\Tela de erro customizavel\bin\Tela de erro customizavel.dll
+E:\Copy\Weblite\Tela de erro customizavel\Tela de erro customizavel\bin\Tela de erro customizavel.pdb
+E:\Copy\Weblite\Tela de erro customizavel\Tela de erro customizavel\bin\Microsoft.Web.Infrastructure.dll
+E:\Copy\Weblite\Tela de erro customizavel\Tela de erro customizavel\bin\System.Web.Helpers.dll
+E:\Copy\Weblite\Tela de erro customizavel\Tela de erro customizavel\bin\System.Web.Mvc.dll
+E:\Copy\Weblite\Tela de erro customizavel\Tela de erro customizavel\bin\System.Web.Razor.dll
+E:\Copy\Weblite\Tela de erro customizavel\Tela de erro customizavel\bin\System.Web.WebPages.Deployment.dll
+E:\Copy\Weblite\Tela de erro customizavel\Tela de erro customizavel\bin\System.Web.WebPages.dll
+E:\Copy\Weblite\Tela de erro customizavel\Tela de erro customizavel\bin\System.Web.WebPages.Razor.dll
+E:\Copy\Weblite\Tela de erro customizavel\Tela de erro customizavel\bin\Microsoft.Web.Infrastructure.xml
+E:\Copy\Weblite\Tela de erro customizavel\Tela de erro customizavel\bin\System.Web.Helpers.xml
+E:\Copy\Weblite\Tela de erro customizavel\Tela de erro customizavel\bin\System.Web.Mvc.xml
+E:\Copy\Weblite\Tela de erro customizavel\Tela de erro customizavel\bin\System.Web.Razor.xml
+E:\Copy\Weblite\Tela de erro customizavel\Tela de erro customizavel\bin\System.Web.WebPages.xml
+E:\Copy\Weblite\Tela de erro customizavel\Tela de erro customizavel\bin\System.Web.WebPages.Deployment.xml
+E:\Copy\Weblite\Tela de erro customizavel\Tela de erro customizavel\bin\System.Web.WebPages.Razor.xml
+E:\Copy\Weblite\Tela de erro customizavel\Tela de erro customizavel\obj\Debug\Tela de erro customizavel.csprojResolveAssemblyReference.cache
+E:\Copy\Weblite\Tela de erro customizavel\Tela de erro customizavel\obj\Debug\Tela de erro customizavel.dll
+E:\Copy\Weblite\Tela de erro customizavel\Tela de erro customizavel\obj\Debug\Tela de erro customizavel.pdb

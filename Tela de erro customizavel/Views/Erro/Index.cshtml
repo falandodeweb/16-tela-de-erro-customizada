@@ -1,0 +1,33 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0" />
+    <meta name="author" content="Weblite Soluções Multimídia Ltda." />
+    <meta name="robots" content="noindex, nofollow" />
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="@Url.Content("~/content/layout/erro/favicon.ico")" type="image/x-icon" rel="icon"/>
+    <link href="@Url.Content("~/content/layout/erro/favicon.ico")" type="image/x-icon" rel="shortcut icon"/>
+    <link href="@Url.Content("~/Content/Layout/Erro/Erro.css")" rel="stylesheet"/>
+    <title>Chame o Batman, algo deu errado!</title></head>
+<body>
+    <div class="erro">
+        <h1>Chame o Batman, algo deu errado!</h1>
+        <p>Ops, você não deveria ter visto isto, alguma coisa não saiu como esperávamos.
+            <br />
+            Chame o Batman, avise sobre esta tela de erro e informe o código <strong>@ViewBag.CodigoErro</strong>. </p>
+        <ul class="center">
+            <li><i class="fa fa-phone"></i> (43) 2101-6857</li>
+            <li><i class="fa fa-envelope"></i> suporte@weblitenet.com.br</li>
+        </ul>
+        <audio autoplay preload="none" loop>
+            <source src="@Url.Content("~/content/layout/erro/batman.mp3")" type="audio/mpeg"><source src="@Url.Content("~/content/layout/erro/batman.ogg")" type="audio/ogg"></audio>
+    </div>
+</body>
+</html>
